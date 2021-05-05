@@ -1,0 +1,22 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "BigCo Onboarding API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Dennis Wanjeri\"",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisWanjeri/onboarding.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/DennisWanjeri/onboarding/issues"
+  },
+  "homepage": "https://github.com/DennisWanjeri/onboarding#readme"
+}
